@@ -1,0 +1,19 @@
+*{
+    margin: 0% auto;
+    padding: 0% auto;
+}
+body{
+    background-image: url(Imagens/fundo.png);
+}
+.container{
+    width: 70%;
+    height: 600px;
+    background-color: azure;
+}
+#img_capa{
+    width: 1065px;
+    height: 500px;
+}
+#foto1{
+    width: 1065px;
+}
